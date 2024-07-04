@@ -6,3 +6,5 @@ Utworzyć plan testu dla MrBuggy 7
 2
 3
 4
+
+Próba wysłania na GITHUBa
